@@ -1,9 +1,10 @@
-# logException
-<p align="center">🚀 Para registrar uma exceção no Python, podemos usar o módulo de registro e, por meio dele, podemos registrar o erro.  O módulo de registro fornece um conjunto de funções para registro simples e para as seguintes finalidades  DEPURAR INFO AVISO ERRO CRÍTICO O registro de uma exceção em python com um erro pode ser feito no logging.exception()método. Esta função registra uma mensagem com o nível ERROR neste logger. Os argumentos são interpretados como para debug(). As informações de exceção são adicionadas à mensagem de registro. Este método só deve ser chamado de um manipulador de exceção. 🚀 </p>
 
 <h1 align="center">
     <a href="https://docs.python.org/3/tutorial/errors.html">🔗 Log Exception </a>
 </h1>
+
+<p align="justify">🚀 Para registrar uma exceção no Python, podemos usar o módulo de registro e, por meio dele, podemos registrar o erro.  O módulo de registro fornece um conjunto de funções para registro simples e para as seguintes finalidades  DEPURAR INFO AVISO ERRO CRÍTICO O registro de uma exceção em python com um erro pode ser feito no logging.exception()método. Esta função registra uma mensagem com o nível ERROR neste logger. Os argumentos são interpretados como para debug(). As informações de exceção são adicionadas à mensagem de registro. Este método só deve ser chamado de um manipulador de exceção. 🚀 </p>
+
 
 
 ### Features
